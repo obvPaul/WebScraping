@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c3f5f43-aca8-4e14-9d8f-89b212cf32f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/web-scraping-learning/mapIT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2c3f5f43-aca8-4e14-9d8f-89b212cf32f6" name="Changes" comment="Started learning web-scraping | Opening googlemaps pages through clipboard">
+      <change afterPath="$PROJECT_DIR$/web-scraping-learning/Requests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebShopBot/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebShopBot/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-scraping-learning/mapIT.py" beforeDir="false" afterPath="$PROJECT_DIR$/web-scraping-learning/mapIT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Requests.executor": "Run",
     "Python.mapIT.executor": "Run",
     "Python.script.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,14 +81,28 @@
       <updated>1742907691484</updated>
       <workItem from="1742907692491" duration="155000" />
       <workItem from="1742908413165" duration="1510000" />
-      <workItem from="1742912419027" duration="665000" />
+      <workItem from="1742912419027" duration="3338000" />
     </task>
+    <task id="LOCAL-00001" summary="Started learning web-scraping | Opening googlemaps pages through clipboard">
+      <option name="closed" value="true" />
+      <created>1742913157401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742913157401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started learning web-scraping | Opening googlemaps pages through clipboard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started learning web-scraping | Opening googlemaps pages through clipboard" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WebShopBot$Requests.coverage" NAME="Requests Coverage Results" MODIFIED="1742974913904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-scraping-learning" />
     <SUITE FILE_PATH="coverage/WebShopBot$mapIT.coverage" NAME="mapIT Coverage Results" MODIFIED="1742912959045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-scraping-learning" />
     <SUITE FILE_PATH="coverage/WebShopBot$script.coverage" NAME="script Coverage Results" MODIFIED="1742910638140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebShopBot" />
   </component>

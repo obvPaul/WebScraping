@@ -1,4 +1,4 @@
-import webbrowser, sys, pyperclip
+import webbrowser, sys, pyperclip, requests
 if len(sys.argv) > 1:
     # Get address from command line.
     address = ' '.join(sys.argv[1:])
